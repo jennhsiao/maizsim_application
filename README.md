@@ -10,7 +10,7 @@ We have model outputs of a process-based crop simulation model for 5 model exper
 -	“CO2”: doubling CO2 levels from 400 ppm to 800 ppm.
 -	“All”: a combination of changes in Temp, VPD and CO2.
 
-* Some background: VPD is an atmospheric index used to describe the dryness in the air. A higher VPD indicates a drier environment. Under natural environments, VPD is tightly correlated with temperature – when temperature increases, VPD often increases as well (air dries when you warm it; think when you turn on the heater in your house in winter). 
+Some background: VPD is an atmospheric index used to describe the dryness in the air. A higher VPD indicates a drier environment. Under natural environments, VPD is tightly correlated with temperature – when temperature increases, VPD often increases as well (air dries when you warm it; think when you turn on the heater in your house in winter). 
 
 We can use these experiments to identify what magnitude of impact each of these projected changes in climate factors will have on crop growth and yield, as well as understand their overall combined effect. If you feel ambitious, you can look into the interactions between each climate treatment as well. We can also use the various model outputs (see below for a list of selected model outputs) to better our understanding on the physiological processes involved in shaping final yield, and how they might be affected under a changing climate. 
 
