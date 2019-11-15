@@ -50,14 +50,14 @@ Here is a selection of relevant model outputs:
 2. Analyze the yield impact of each climate treatment (Temp, VPD, CO2): 
     - Plot out ear biomass throughout the growing season for all three treatments. Briefly describe your results and any additional 
       patterns you observed. The value at the very end of the growing season can be interpreted as final yield.
-    - Compare the final yield simulated under each climate treatment with the control simulation: 
-      Yield Impact=((〖Yield〗_treatment-〖Yield〗_control ))/〖Yield〗_control *100%
+    - Compare the final yield simulated under each climate treatment with the control simulation: <br/>
+      Yield Impact=(Yield_treatment-Yield_control)/Yield_control * 100%
 
 3. Analyze how physiological processes were influenced under each climate treatment: 
     - Which model outputs did you choose to analyze and why (list at least two)? 
     - Plot out how your chosen model output changed throughout the growing season for all three climate treatments. 
-    - Calculate the percent change of your model output following the equation:
-        ∆Model Output=((〖Model Output〗_treatment-〖Model Output〗_control ))/〖Model Output〗_control *100%
+    - Calculate the percent change of your model output following the equation: <br/>
+        ∆Model Output=(Model Output_treatment-Model Output_control )/Model Output_control *100%
     - How did each climate treatment influence these processes? 
     - Which process was influenced by the climate treatment the most?
 4. Provide a mechanistic explanation of your results from question 3: what do you think led to the changes you saw in your chosen physiological processes? How do you think that contributed to the final yield?
